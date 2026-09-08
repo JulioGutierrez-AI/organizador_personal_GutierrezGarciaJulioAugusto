@@ -19,5 +19,8 @@ Visual Studio Code
 - request
 - python-dotenv
 
+## Estado
+En fase de desarrollo
+
 ## Autor
 Gutierrez Garcia julio Augusto
