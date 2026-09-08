@@ -7,3 +7,4 @@ A continuación se presentan las funcionalidades previstas para el desarrollo de
 * **Modificar tareas:** Editar los detalles o fechas de tareas previamente guardadas.
 * **Marcar tareas como terminadas:** Actualizar el estado de una tarea para indicar su cumplimiento.
 * **Registrar notas:** Redactar y guardar anotaciones o recordatorios rápidos independientes de las tareas.
+* **Eliminar tareas:** Remover permanentemente del registro aquellas tareas canceladas o que ya no sean necesarias.
