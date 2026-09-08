@@ -1,0 +1,23 @@
+## Nombre del proyecto
+Organizador personal
+
+## Objetivo
+Llevar un orden de las  actividades diarias
+
+## Tecnologias utilizadas
+Python
+Git y Github
+Visual Studio Code
+
+## Pasos de instalacion
+1. Clonar el repositorio
+2. Crear y activar el entorno virtual
+3. Instalar dependencias
+4. Ejecutar aplicacion base
+
+## Dependencias
+- request
+- python-dotenv
+
+## Autor
+Gutierrez Garcia julio Augusto
