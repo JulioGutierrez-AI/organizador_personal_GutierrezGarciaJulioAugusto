@@ -24,3 +24,11 @@ En fase de desarrollo
 
 ## Autor
 Gutierrez Garcia julio Augusto
+
+## Colaboración
+Este proyecto acepta contribuciones. Por favor:
+
+1. Crea una rama para tu trabajo
+2. Realiza tus cambios
+3. Documenta tus mejoras
+4. Abre un pull request describiendo los cambios
